@@ -6,12 +6,12 @@ I am fully permitted to work in United Kingdom on Homes for Ukrainian Scheme
 ### Objective:
 Driven by my practical experience and successful track record of building websites from scratch, my objective as a Python Developer is to leverage my skills and knowledge to continue my growth in the field.
 Technical Skills:
-•	Proficient in Python, HTML and CSS
-•	Familiarity with Django framework for web development
-•	Experience working with databases, specifically SQLite and PostgreSQL
-•	Concurrency in Python: threadings, multiprocessing, asynchronous programming
-•	Linux and Windows
-•	Docker and GitHub
+- •	Proficient in Python, HTML and CSS
+- •	Familiarity with Django framework for web development
+- •	Experience working with databases, specifically SQLite and PostgreSQL
+- •	Concurrency in Python: threadings, multiprocessing, asynchronous programming
+- •	Linux and Windows
+- •	Docker and GitHub
 
 ### Projects:
 •	Developed a sport nutrition web application using Python and Django that allowed users to receive sport meals suggestions from ChatGPT api, view diet articles and interact with other people through the blog
