@@ -32,6 +32,7 @@ Technical Skills:
 - 	Completed the Python development course at Beetroot Academy (2023) https://lms.beetroot.academy/diploma/cl9gonyu2j0kj0727otd8v21r
 - 	Achieved 7 overall mark at the IELTS (Test of English as a Foreign Language) certification from the British Council and Cambridge Assessment English (2022). Test Report Form Number: 22TR001345PRUM100A
 - 	Completed an Onlinegrouppenkurs Intensiv from the Goethe-Institut (2022) https://drive.google.com/file/d/1GapvZ71LzErlpECcyeONdTXdOx4nPuTN/view?usp=sharing
+- 	Agile Fundamentals: Including Scrum & Kanban https://www.udemy.com/certificate/UC-30946372-3742-490b-b4c6-4858eb8ba47a/
 
 
 ### Languages:
