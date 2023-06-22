@@ -1,17 +1,20 @@
 # Biography
 
 ### Right to work:
-I am fully permitted to work in United Kingdom on Homes for Ukrainian Scheme
+I am fully permitted to work in United Kingdom
 
 ### Objective:
 Driven by my practical experience and successful track record of building websites from scratch, my objective as a Python Developer is to leverage my skills and knowledge to continue my growth in the field.
 Technical Skills:
-- 	Proficient in Python, HTML and CSS
-- 	Familiarity with Django framework for web development
-- 	Experience working with databases, specifically SQLite and PostgreSQL
+- 	Python, HTML and CSS
+-   Django framework
+- 	SQLite, PostgreSQL and MongoDB
 - 	Concurrency in Python: threadings, multiprocessing, asynchronous programming
 - 	Linux and Windows
 - 	Docker and GitHub
+- 	Object-Oriented Programming in Python: inheritance, composition, polymorphism, encapsulation, static, class and property decorators, dunder methods
+- 	Data types, string formatting, conditional statements, imports, for and while loops, comprehensions, functions, exceptions, work with files, closures, decorators, iterators and generators, context managers in Python
+- 	Data Structures: Stack, Queue, Lists, Trees, Graphs, Sorting Algorithms
 
 ### Projects:
 - 	Developed a sport nutrition web application using Python and Django that allowed users to receive sport meals suggestions from ChatGPT api, view diet articles and interact with other people through the blog
@@ -38,10 +41,10 @@ Technical Skills:
 - 	English  (C1)
 
 ### Additional Information:
-- 	Utilized and familiarized myself with various services and Python tools such as json, openai, python-telegram-bot, psycopg2 requests and sockets libraries, data structures such as stacks, queues, dequeues, trees, graphs and lists, sorting methods, OOP and functional programming principles during the Beetroot Academy course
-- 	Successfully passed Ukrainian External Evaluation exams with all 200 marks which made me one of 500 best Ukrainian school graduates
-- 	Developed an app for a second-hand shop during the Python course at the University of the West of Scotland, which allowed adding books by some types of them, searching by various book characteristics, viewing the storage, and external storing the book data in the pickle file
-- 	Studied networking essentials and UI/UX design principles as part of the University coursework
-- 	Experienced in Judo with a yellow belt and participated in 2 Scottish Championships
-- 	Achieved a junior brown belt in Aikido.
-- 	Dived into testing with unittest library
+-	Successfully passed Ukrainian External Evaluation exams with all 200 marks which made me one of 500 best Ukrainian school graduates
+-	Developed an app for a second-hand shop during the Python course at the University of the West of Scotland, which allowed adding books by some types of them, searching by various book characteristics, viewing the storage, and external storing the book data in the pickle file
+-	Studied networking essentials and UI/UX design principles as part of the University coursework
+-	Experienced in Judo with a yellow belt and participated in 2 Scottish Championships
+-	Achieved a junior brown belt in Aikido.
+-	During my school education in Ukraine, I had the opportunity to engage in scientific research dedicated to ecological problems. I conducted a comprehensive laboratory analysis of water samples collected from various parts of the Dnipro River and studied its chemical state over time. This research aimed to understand the dynamics and environmental impact on the river's water quality. I am proud to share that my scientific research was recognized and awarded three times at different Ukrainian Ecology Olympiads between 2019 and 2021.
+
