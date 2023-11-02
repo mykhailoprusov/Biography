@@ -24,9 +24,9 @@ Technical Skills:
 - 	Constructed an echo server, which returns to client the data encrypted using Caesar cipher algorithm by a specific key obtained from the client.
 
 ### Education:
-- 	Completed one year with high marks among all subjects in the Student BA Computing Science program at the University of the West of Scotland (2022-2023)
-- 	Co-founder and President of the University of the West of Scotland programming club
-- 	Relevant coursework: Python Programming, Web Development, Design for Interaction
+- 	BSc Computing Science student at the University of the West of Scotland (2022-2023)
+- 	Computer Science student at the University of Strathclyde (2023-2026)
+
 
 ### Certifications:
 - 	Completed the Python development course at Beetroot Academy (2023) https://lms.beetroot.academy/diploma/cl9gonyu2j0kj0727otd8v21r
